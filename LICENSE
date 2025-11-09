@@ -179,14 +179,9 @@
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+      replaced with your own identifying information.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright (c) 2025 Alwin Madhu <alwinmadhu4060@gmail.com>
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +194,14 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   -------------------------------------------------------------------------
+   NOTICE:
+   Megamind AI is an independent open-source project created by Alwin Madhu.
+   It is not affiliated with, endorsed by, or associated with DreamWorks
+   Animation or Universal Pictures. "Megamind" is used purely as an
+   inspiration for naming and does not use any copyrighted or trademarked
+   materials from the movie or related media.
+   -------------------------------------------------------------------------
+
+   alwin-m/Megamind is licensed under the Apache License 2.0
