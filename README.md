@@ -1,7 +1,6 @@
 # Megamind
 Megamind is a lightweight personal AI assistant powered by **Llama 3 (8B model)**. It is designed to run **locally** on your computer using [Ollama](https://ollama.ai/).
 
-<img width="1200" height="1200" alt="Megamind" src="https://github.com/user-attachments/assets/5a837586-fb14-4be0-a275-844d09e7f3ea" />
 
 ---
 
@@ -60,6 +59,9 @@ If you don’t have a dedicated GPU, you can still run it completely on CPU:
 | **Linux (Ubuntu/Debian/Fedora)** | ✅ Supported | CLI-based installation; same commands apply |
 
 ---
+
+
+
 
 ## Installation Guide
 
