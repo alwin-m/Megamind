@@ -1,4 +1,4 @@
-🦙# Megamind
+# Megamind 🦙
 Megamind is a lightweight personal AI assistant powered by **Llama 3 (8B model)**. It is designed to run **locally** on your computer using [Ollama](https://ollama.ai/).
 
 
