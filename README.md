@@ -60,22 +60,45 @@ If you don’t have a dedicated GPU, you can still run it completely on CPU:
 
 ---
 
+Installation Guide
+Step 1: Install Ollama
 
-
-
-## Installation Guide
-
-### Step 1: Install Ollama
-Download and install Ollama from the official site:  
-👉 [https://ollama.ai/download](https://ollama.ai/download)
+Download and install Ollama from the official site:
+👉 https://ollama.ai/download
 
 Choose the version for your operating system (Windows, macOS, or Linux).
+For Windows users, simply run the downloaded installer and follow the on-screen setup instructions.
 
----
+Step 2: Verify Installation
 
-### Step 2: Verify Installation
 After installation, open your terminal (or Command Prompt on Windows) and check:
 
-```bash
 ollama --version
-```
+
+
+If a version number appears, it means Ollama has been successfully installed and is ready to use.
+
+Step 3: Pull the Llama 3 Model
+
+Next, download the Llama 3 (8B) model by running:
+
+ollama pull llama3:8b
+
+
+This will download the model files and prepare them for local inference.
+
+Step 4: Run the Model Locally
+
+Once the model is downloaded, you can start using it directly on your machine:
+
+ollama run llama3:8b
+
+
+After running this command, Ollama will launch the Llama 3 (8B) model locally.
+You can now chat, test prompts, or integrate it with your local applications — all without needing an internet connection.
+
+<img width="1427" height="1061" alt="Screenshot 2025-11-11 014525" src="https://github.com/user-attachments/assets/c3197107-2e65-4797-b0ee-4816a90a7f32" />
+
+
+
+
