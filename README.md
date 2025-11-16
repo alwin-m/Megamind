@@ -87,6 +87,7 @@ Step 3: Pull the Llama 3 Model
 
 Next, download the Llama 3 (8B) model by running:
 
+
 ollama pull llama3:8b
 
 
@@ -97,6 +98,7 @@ This will download the model files and prepare them for local inference.
 Step 4: Run the Model Locally
 
 Once the model is downloaded, you can start using it directly on your machine:
+
 
 ollama run llama3:8b
 
