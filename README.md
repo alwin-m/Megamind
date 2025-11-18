@@ -76,8 +76,11 @@ Step 2: Verify Installation
 
 After installation, open your terminal (or Command Prompt on Windows) and check:
 
+```bash
+
 ollama --version
 
+```
 
 If a version number appears, it means Ollama has been successfully installed and is ready to use.
 
@@ -87,9 +90,11 @@ Step 3: Pull the Llama 3 Model
 
 Next, download the Llama 3 (8B) model by running:
 
+```bash
 
 ollama pull llama3:8b
 
+```
 
 This will download the model files and prepare them for local inference.
 
@@ -99,9 +104,11 @@ Step 4: Run the Model Locally
 
 Once the model is downloaded, you can start using it directly on your machine:
 
+ ```bash
 
 ollama run llama3:8b
 
+```
 
 After running this command, Ollama will launch the Llama 3 (8B) model locally.
 You can now chat, test prompts, or integrate it with your local applications — all without needing an internet connection.
